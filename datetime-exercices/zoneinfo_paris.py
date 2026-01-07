@@ -1,5 +1,5 @@
 from datetime import datetime
-from zoneinfo  import ZoneInfo
+from zoneinfo import ZoneInfo
 
 paris = ZoneInfo('Europe/Paris')
 utc = ZoneInfo('UTC')
